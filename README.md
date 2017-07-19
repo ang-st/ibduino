@@ -4,9 +4,9 @@
 
 
 ### TODO
-* [] parse expression
-* [] chain function call following parsed ast
-* [] ....
+* [ ] parse expression
+* [ ] chain function call following parsed ast
+* [ ] well a bunch of stuff :)....
 
 
 
